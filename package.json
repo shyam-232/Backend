@@ -1,0 +1,17 @@
+{
+  "name": "start_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Youtube",
+    "Javascript",
+    "Backend"
+  ],
+  "author": "ShyaM Sundar Meena",
+  "license": "ISC",
+  "description": ""
+}
